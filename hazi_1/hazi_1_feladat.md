@@ -1,6 +1,6 @@
 # Mit csinál a következő parancs? 
-1. grep -w '[KS].*a' nevek.txt
-2. dd if=/dev/zero of=zeros.txt count=1 bs=100
+1. `grep -w '[KS].*a' nevek.txt`
+2. `dd if=/dev/zero of=zeros.txt count=1 bs=100`
 
 # Írj olyan parancsot ami:
 3. Hozz létre egy új üres file-t "f3.txt" néven abba a mappába ahol vagy
