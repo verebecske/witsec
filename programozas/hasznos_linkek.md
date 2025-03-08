@@ -1,0 +1,11 @@
+# Hasznos linkek
+    - https://infopy.eet.bme.hu/
+    - https://infoc.eet.bme.hu/
+    - https://infoc.eet.bme.hu/jegyzet/c_jegyzet.pdf
+    - https://dtk.tankonyvtar.hu/bitstream/handle/123456789/8682/Simon_A_progr_alapjai.pdf
+    - https://www.info.nytta.hu/temak/prog/progalap.pdf
+    - https://automatetheboringstuff.com/
+    - https://irh.inf.unideb.hu/~vargai/download/algorithms/AlgoritmusProgAlap.pdf
+    - https://github.com/charlax/professional-programming
+    - https://inventwithpython.com/
+    - https://coddy.tech/
