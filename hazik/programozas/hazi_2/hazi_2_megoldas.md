@@ -1,0 +1,3 @@
+# Megoldás
+1. az `function area(r)` kiszámolja az r sugarú kör területét, a `function perimeter(r)` pedig kiszámolja az r sugarú kör kerülét. A `const r = 2` megad egy r konstansot 2-es értékkel. A `console.log(area(r))` kiszámolja és kiírja a 2 sugarú kör területét, a `console.log(perimeter(r))` pedig kiszámolja és kiírja a 2 sugarú kör kerületét.
+2. A while végtelen loopba kerül, mivel a feltétel (i < 5) mindig teljesül, hiszen az i értéke (ami 0-nak lett megadva) sosem változtik.
