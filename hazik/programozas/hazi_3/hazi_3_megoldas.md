@@ -1,0 +1,3 @@
+# Megoldás
+1. ez a bash-ban írt játék, először létrehoz egy random értékű számot 1 és 100 között, majd arra kéri a felhasználót hogy írjon be egy számot. Beolvassa a számot és egy loopba kezd, ami addig tart amíg a felhasználó által beírt és a "gondolt" random szám meg nem egyezik. Ha eltérés van a program tájékoztatja a felhasználót hogy kisebb vagy nagyobb-e a "gondolt" szám mint a felhasználó által megadott.
+2. Ez a rövid php kód egy szöveget írna ki, de az `echo`-n belül 2 változót is használna, de ezek közül a `$verb` értéke nincs megadva.
