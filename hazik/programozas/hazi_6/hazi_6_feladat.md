@@ -1,0 +1,1 @@
+# 1. Javítsd meg a kódot, hogy megkapd a szöveget amit kiír. Három kis hibát rejtettem el benne.
